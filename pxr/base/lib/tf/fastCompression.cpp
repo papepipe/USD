@@ -28,7 +28,7 @@
 #include "pxr/base/tf/fastCompression.h"
 
 // XXX: Need to isolate symbols here?
-#include "pxrLZ4/lz4.h"
+#include "C:/workspace_usd/USD/pxr/base/lib/tf/pxrLZ4/lz4.h"
 
 PXR_NAMESPACE_OPEN_SCOPE
 

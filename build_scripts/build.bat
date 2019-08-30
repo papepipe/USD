@@ -1,0 +1,1 @@
+python build_scripts/build_usd.py C:/USD_build --openimageio --opencolorio --hdf5 --alembic --maya --maya-location "C:/packages/pg/prod/maya/2018.4"
